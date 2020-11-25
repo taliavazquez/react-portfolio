@@ -1,6 +1,6 @@
 ## Project title
 Portfolio
-![alt text](https://github.com/taliavazquez/react-portfolio/src/image.png)
+![alt text](./src/image.png)
 
 ## Style
 React Website
